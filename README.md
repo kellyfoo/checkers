@@ -3,7 +3,7 @@ Welcome to OCaml Checkers! :)
 
 How to install and build the checkers system:
 
-1. Download the checkers zip file.
+1. Download the src zip file.
 2. Navigate to the directory in which you placed the file through terminal.
 3. Run "make play" and the checkers game should start! Further instructions are
    then given.
